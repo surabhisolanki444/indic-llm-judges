@@ -1,0 +1,22 @@
+{
+ "AUC vs calibrated kappa": {
+  "rho": 0.911,
+  "p": 6.082201798284113e-10
+ },
+ "Overrating vs raw kappa": {
+  "rho": -0.946,
+  "p": 3.000427331585605e-12
+ },
+ "AUC vs raw kappa": {
+  "rho": 0.683,
+  "p": 0.00023775848063956889
+ },
+ "Overrating vs nDCG inflation": {
+  "rho": 0.857,
+  "p": 8.706604985673423e-08
+ },
+ "AUC vs system tau": {
+  "rho": 0.624,
+  "p": 0.001121149702574522
+ }
+}

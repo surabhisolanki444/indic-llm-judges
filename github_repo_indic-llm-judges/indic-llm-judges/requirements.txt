@@ -1,0 +1,7 @@
+pandas<3
+numpy
+scipy
+scikit-learn<1.9
+matplotlib
+# GPU notebooks additionally use:
+# torch, transformers, accelerate, bitsandbytes, huggingface_hub, sentence-transformers
